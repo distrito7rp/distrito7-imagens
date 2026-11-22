@@ -1,2 +1,2 @@
 ﻿# distrito7-imagens
-AtlasImages CDN for Distrito 7 RP (jsDelivr).
+D7Images CDN for Distrito 7 RP (jsDelivr).
